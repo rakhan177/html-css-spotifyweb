@@ -274,9 +274,12 @@ nav > div{
 h2 + div{
   margin: 10px 15px 0 15px;
 }
-.mrgb{
-  margin-bottom: 15px;
+.mrgt{
+  margin: 10px 0 0 0;
 }
+/* .mrgb{
+  margin-bottom: 15px;
+} */
 /* /struttura content */
 
 /* struttura footer */
